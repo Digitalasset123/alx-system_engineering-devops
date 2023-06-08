@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -AP sort -d tr '\n' ',' echo 
